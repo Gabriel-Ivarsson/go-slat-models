@@ -1,0 +1,3 @@
+[submodule "gopslat-dev-training-data"]
+	path = gopslat-dev-training-data
+	url = git@github.com:Gabriel-Ivarsson/gopslat-dev-training-data.git
